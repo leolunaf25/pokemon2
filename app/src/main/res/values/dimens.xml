@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dimen1">50dp</dimen>
+    <dimen name="dimen2">35dp</dimen>
+    <dimen name="dimenimage">30dp</dimen>
+    <dimen name="dimen22">40dp</dimen>
+    <dimen name="dimenp">42dp</dimen>
+    <dimen name="dimen3">150dp</dimen>
+    <dimen name="dimenletra">20dp</dimen>
+    <dimen name="dimenletra2">36dp</dimen>
+    <dimen name="dimeni">17dp</dimen>
+    <dimen name="dimenletralist">24dp</dimen>
+
+
+
+
+
+</resources>

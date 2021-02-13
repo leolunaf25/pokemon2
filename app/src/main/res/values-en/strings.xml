@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokémex</string>
+    <string name="height">Height:</string>
+    <string name="weight">Weight:</string>
+    <string name="type">Type:</string>
+    <string name="experience">Base experience:</string>
+    <string name="error1">Fail Connect</string>
+</resources>
